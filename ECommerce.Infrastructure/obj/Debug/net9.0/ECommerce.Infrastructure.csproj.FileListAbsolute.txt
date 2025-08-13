@@ -1,0 +1,17 @@
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Infrastructure.deps.json
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Infrastructure.runtimeconfig.json
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Infrastructure.dll
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Infrastructure.pdb
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Domain.dll
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Domain.pdb
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.csproj.AssemblyReference.cache
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.AssemblyInfoInputs.cache
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.AssemblyInfo.cs
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.csproj.CoreCompileInputs.cache
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerc.B0B31267.Up2Date
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.dll
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\obj\Debug\net9.0\refint\ECommerce.Infrastructure.dll
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.pdb
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.genruntimeconfig.cache
+I:\TEST2025\ECommerce\ECommerce.Infrastructure\obj\Debug\net9.0\ref\ECommerce.Infrastructure.dll
