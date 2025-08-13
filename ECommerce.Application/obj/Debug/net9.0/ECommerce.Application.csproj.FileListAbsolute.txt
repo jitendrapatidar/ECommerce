@@ -1,0 +1,15 @@
+I:\TEST2025\ECommerce\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.csproj.AssemblyReference.cache
+I:\TEST2025\ECommerce\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+I:\TEST2025\ECommerce\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.AssemblyInfoInputs.cache
+I:\TEST2025\ECommerce\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.AssemblyInfo.cs
+I:\TEST2025\ECommerce\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.csproj.CoreCompileInputs.cache
+I:\TEST2025\ECommerce\ECommerce.Application\bin\Debug\net9.0\ECommerce.Application.deps.json
+I:\TEST2025\ECommerce\ECommerce.Application\bin\Debug\net9.0\ECommerce.Application.dll
+I:\TEST2025\ECommerce\ECommerce.Application\bin\Debug\net9.0\ECommerce.Application.pdb
+I:\TEST2025\ECommerce\ECommerce.Application\bin\Debug\net9.0\ECommerce.Domain.dll
+I:\TEST2025\ECommerce\ECommerce.Application\bin\Debug\net9.0\ECommerce.Domain.pdb
+I:\TEST2025\ECommerce\ECommerce.Application\obj\Debug\net9.0\ECommerc.670E0CBE.Up2Date
+I:\TEST2025\ECommerce\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.dll
+I:\TEST2025\ECommerce\ECommerce.Application\obj\Debug\net9.0\refint\ECommerce.Application.dll
+I:\TEST2025\ECommerce\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.pdb
+I:\TEST2025\ECommerce\ECommerce.Application\obj\Debug\net9.0\ref\ECommerce.Application.dll

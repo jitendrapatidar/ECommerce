@@ -1,0 +1,10 @@
+I:\TEST2025\ECommerce\ECommerce.Database\bin\Debug\ECommerce.Database.dacpac
+I:\TEST2025\ECommerce\ECommerce.Database\bin\Debug\ECommerce.Database.dll
+I:\TEST2025\ECommerce\ECommerce.Database\bin\Debug\ECommerce.Database.pdb
+I:\TEST2025\ECommerce\ECommerce.Database\obj\Debug\ECommerce.Database.sqlproj.AssemblyReference.cache
+I:\TEST2025\ECommerce\ECommerce.Database\obj\Debug\ECommerce.Database.dll
+I:\TEST2025\ECommerce\ECommerce.Database\obj\Debug\ECommerce.Database.pdb
+I:\TEST2025\ECommerce\ECommerce.Database\obj\Debug\Model.xml
+I:\TEST2025\ECommerce\ECommerce.Database\obj\Debug\refactor.xml
+I:\TEST2025\ECommerce\ECommerce.Database\obj\Debug\postdeploy.sql
+I:\TEST2025\ECommerce\ECommerce.Database\obj\Debug\predeploy.sql
